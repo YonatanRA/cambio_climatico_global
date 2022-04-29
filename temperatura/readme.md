@@ -3,7 +3,7 @@
 # Datos sobre Anomalías de Temperatura mundial
 
 
-Anomalías de temperatura desde 1880 con respecto de la media de temperatura en el rango de años 1850-1900, realizando visualizaciones de los mismos. Gracias al [https://www.linkedin.com/in/edhawkinsclimate/](Profesor Ed Hawkins) por el gráfico polar. También se realiza una predicción hasta 2050 con Facebook Prophet.
+Anomalías de temperatura desde 1880 con respecto de la media de temperatura en el rango de años 1850-1900, realizando visualizaciones de los mismos. Gracias al [Profesor Ed Hawkins](https://www.linkedin.com/in/edhawkinsclimate/) por el gráfico polar. También se realiza una predicción hasta 2050 con Facebook Prophet.
 
 
 **Fuentes:** 
